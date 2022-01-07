@@ -1,4 +1,4 @@
-# What is Blockchain?
+# Level 1 - What is Blockchain?
 ![](https://i.imgur.com/Pn1B0t8.png)
 
 A blockchain is a shared, distributed, and permanent database shared among multiple nodes on a computer network. They record data in a way that makes it probabilistically impossible to modify or hack the system.
