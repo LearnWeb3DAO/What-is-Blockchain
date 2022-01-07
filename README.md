@@ -63,7 +63,7 @@ and many more...
 To learn more about blockchains, we highly suggest the following resources:
 
 #### Must Watch
-- https://www.youtube.com/watch?v=bBC-nXj3Ng4
+- [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 #### Recommended
 - [https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
