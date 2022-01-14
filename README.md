@@ -63,8 +63,12 @@ and many more...
 To learn more about blockchains, we highly suggest the following resources:
 
 #### Must Watch
-- [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [andersbrownworth.com](https://andersbrownworth.com/blockchain)
 
 #### Recommended
-- [https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
-- [https://www.youtube.com/watch?v=SSo_EIwHSd4](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+- [A Gentle Introduction to Blockchain Technology by Bits On Blocks](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
+- [How does a blockchain work by Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
+#### Ponder Around
+- [ethereum.org](https://ethereum.org/en/)
