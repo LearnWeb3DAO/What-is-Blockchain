@@ -71,4 +71,4 @@ To learn more about blockchains, we highly suggest the following resources:
 - [How does a blockchain work by Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
 #### Ponder Around
-- [ethereum.org](https://ethereum.org/en/)
+- [Ethereum.org](https://ethereum.org/en/)
