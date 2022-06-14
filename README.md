@@ -88,3 +88,5 @@ To learn more about blockchains, we highly suggest the following resources:
 #### Recommended
 - [A Gentle Introduction to Blockchain Technology by Bits On Blocks](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
 - [How does a blockchain work by Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
+<SubmitQuiz />
