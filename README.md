@@ -81,7 +81,7 @@ To learn more about blockchains, we highly suggest the following resources:
 
 #### Must Watch
 - [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-- [Blockchain Demo by Anders Brownworth](https://andersbrownworth.com/blockchain)
+- [Blockchain Demo by Anders Brownworth](https://andersbrownworth.com/blockchain/)
 
 <Quiz questionId="faf19815-bb85-4e21-80aa-e2f7cb1bd6b7" />
 
