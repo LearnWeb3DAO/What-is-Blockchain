@@ -47,7 +47,7 @@ The use of a blockchain confirms that each unit of value was transfered only onc
 
 By storing data in a peer to peer network of nodes, the blockchain is a decentralized network. This has significant benefits over the traditional approach of storing data in a centralized manner. There are significant examples of problems with centralization - a few of which we will list here:
 
-- Data breaches in centralized systems expose lot of data
+- Data breaches in centralized systems expose a lot of data
 - Centralized authorities can censor and shut down speech
 - Reliance on a central authority means upstream problems affect downstream consumers (e.g. AWS going down means most of the internet goes down with it)
 
